@@ -1,4 +1,7 @@
 # Prova
+<img src="https://github.com/Lealfelipe/Prova/blob/acaae4919feb9cfb57abab842ba5f68df20934f5/modelo_relacional.jpg">
+
+<img src="https://github.com/Lealfelipe/Prova/blob/acaae4919feb9cfb57abab842ba5f68df20934f5/diagrama_de_classes.jpg">
 
 CONTEXTO: O desenvolvimento desse projeto está baseado na criação de um sistema de informação com nome GuardaDisc. Esse projeto é um sistema de gerenciamento de discografia com a intenção de guardar em uma unica plataforma. Essa plataforma terão 3 funcionalidades onde a primeira será o gerenciamento dos artistas e musicas onde serão gerenciados os cantores e compositores de determinada musica. A segunda funcionalidade é responsável pelo gerenciamento das bandas registrando os cantores e instrumentistas que fazem parte de uma banda. A terceira funcionalidade é responsável pelo gerenciamento das discografias de cada banda registrando os discos gravados por uma banda e as musicas que compõe esse disco.
 
